@@ -65,13 +65,13 @@ pages/
 </pre>
 
 
-# How to train on dataset
+# Dataset
 
 PUCIT Offline Handwritten Urdu Pages (PUCIT-OHUP) Dataset and Ground Truth files:
-  -- Train Pages images: https://drive.google.com/drive/folders/1VzOMEKPJDLgDjbQaaOSCsnhFLoAiuD1M?usp=sharing
-  -- Test Pages images: https://drive.google.com/drive/folders/1iOiTdrqJVaNEn6EWa6xCfgTTw40dkhHM?usp=sharing
-  -- Train Labels version 3: https://docs.google.com/spreadsheets/d/1TRnLxyoklFmBpYhLwJXZN7iGkzFsw0ju/edit?usp=sharing&ouid=110124311594051201443&rtpof=true&sd=true
-  -- Test Labels version 3: https://docs.google.com/spreadsheets/d/1yvLNyWIMEZwifRz-v7mIAqkrCFJS0poo/edit?usp=sharing&ouid=110124311594051201443&rtpof=true&sd=true
+  - Train Pages images: https://drive.google.com/drive/folders/1VzOMEKPJDLgDjbQaaOSCsnhFLoAiuD1M?usp=sharing
+  - Test Pages images: https://drive.google.com/drive/folders/1iOiTdrqJVaNEn6EWa6xCfgTTw40dkhHM?usp=sharing
+  - Train Labels version 3: https://docs.google.com/spreadsheets/d/1TRnLxyoklFmBpYhLwJXZN7iGkzFsw0ju/edit?usp=sharing&ouid=110124311594051201443&rtpof=true&sd=true
+  - Test Labels version 3: https://docs.google.com/spreadsheets/d/1yvLNyWIMEZwifRz-v7mIAqkrCFJS0poo/edit?usp=sharing&ouid=110124311594051201443&rtpof=true&sd=true
 
 # How to train on dataset
 1. Place all training page images in the folder "train_pages"
